@@ -4,6 +4,6 @@ how to run java on cmd
 
 1: open cmd 
 2: go to directory
-3: compile the file by "javac (file name)"
+3: compile the file by "javac (file name.java)"
 4: then run by "java (file name)"
  done
