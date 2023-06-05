@@ -8,9 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48e31768-79ea-435a-a6b7-a8659f13d103" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_mark2.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
     "last_opened_file_path": "E:/study material/java_mark2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.java">
+  <component name="RunManager">
     <configuration name="ch12_p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch12_p1" />
       <method v="2">
@@ -49,15 +47,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch16_p2.java" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_p2.java" />
+    <configuration name="ch15_p5" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15_p5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch3_p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_p1" />
-      <module name="java_mark2" />
+    <configuration name="ch16_p2.java" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_p2.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch15_p5" />
         <item itemvalue="Application.java" />
         <item itemvalue="Application.ch12_p1" />
         <item itemvalue="Application.ch16_p2.java" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.ch3_p1" />
       </list>
     </recent_temporary>
   </component>
