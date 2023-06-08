@@ -1,9 +1,13 @@
-
 public class test {
-     public static void main(String[] args) {
-      int array [][] = {{1,3},{3,4}};
-      System.out.println(array[][]);
-         };
+      static String st(){
+          System.out.println("thsi is a string type return method");
+          String a = "hi";
+          return a;
      }
+     public static void main(String[] args) {
+                System.out.println("this is a main method ");
+                st();
+         };
+     }    
 
 
