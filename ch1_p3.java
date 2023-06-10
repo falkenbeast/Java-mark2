@@ -15,7 +15,7 @@ public class ch1_p3 //taking input by formating
 //        String st = sc.next();
 //        String st = sc.nextLine();
 //        System.out.println(st);
-
+        sc.close();      //fix of yellow 
     }
 }
 

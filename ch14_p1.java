@@ -1,30 +1,41 @@
-import java.util.*;           //arraylist 
+
+import java.util.ArrayList;     //arraylist
+import java.util.Scanner;
 
 public class ch14_p1 {
     public static void main(String[] args) {
-        LinkedList<Integer> l1 = new LinkedList<>();
-        LinkedList<Integer> l2 = new LinkedList<>();
-        l2.add(15);
-        l2.add(18);
-        l2.add(19);
+        Scanner in = new Scanner(System.in);
+        // Syntax
+        ArrayList<Integer> list = new ArrayList<>(5);
+        
 
-        l1.add(6);
-        l1.add(7);
-        l1.add(4);
-        l1.add(6);
-        l1.add(0, 5);
-        l1.add(0, 1);
-        l1.addAll(0, l2);
-        l1.addLast(676);
-        l1.addFirst(788);
-        System.out.println(l1.contains(27));
-        System.out.println(l1.indexOf(6));
-        System.out.println(l1.lastIndexOf(6));
-        //l1.clear();
-        l1.set(1, 566);
-        for(int i=0; i<l1.size(); i++){
-            System.out.print(l1.get(i));
-            System.out.print(", ");
+//        list.add(67);
+//        list.add(234);
+//        list.add(654);
+//        list.add(43);
+//        list.add(654);
+//        list.add(8765);
+
+//        System.out.println(list.contains(765432));
+//        System.out.println(list);
+//        list.set(0, 99);
+//
+//        list.remove(2);
+//
+//        System.out.println(list);
+
+        // input
+        for (int i = 0; i < 5; i++) {
+            System.out.println("enter 5 elements");
+            list.add(in.nextInt());
         }
+
+        // get item at any index
+        for (int i = 0; i < 5; i++) {
+            System.out.println(list.get(i)); // pass index here, list[index] syntax will not work here
+        }
+
+        System.out.println(list);
+        in.close(); //fix of yellow 
     }
 }

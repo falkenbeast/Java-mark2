@@ -1,3 +1,4 @@
+
 class base     //super keyword
 {
         int a =10;

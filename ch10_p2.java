@@ -30,11 +30,11 @@ class AvonCycle implements Bicycle, HornBicycle{
     }
 }
 public class ch10_p2 {
-    public static void main(String[] args) {
+    public  static void main(String[] args) {
         AvonCycle cycleHarry = new AvonCycle();
         cycleHarry.applyBrake(1);
         // You can create properties in Interfaces
-        System.out.println(cycleHarry.a);
+        System.out.println(cycleHarry.a);      
         System.out.println(cycleHarry.x);
 
         // You cannot modify the properties in Interfaces as they are final

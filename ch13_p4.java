@@ -25,5 +25,6 @@ public class ch13_p4 {
             }
         }
         System.out.println("Thanks for using this program");
+        sc.close();   //fix of yellow 
     }
 }

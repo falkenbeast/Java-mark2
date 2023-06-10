@@ -17,6 +17,6 @@ public class ch13_p1 {
         Scanner sc = new Scanner(System.in);
         k = sc.nextInt();
         System.out.println("Integer part of 1000 divided by k is "+ 1000/k);
-
+         sc.close();       //fix of yellow 
     }
 }

@@ -29,8 +29,10 @@ public class ch13_p5 {
         a = sc.nextInt();
         if (a<9){
             try{
+                sc.close(); //fix of yellow 
                 throw new MyException();
                 //throw new ArithmeticException("This is an exception");
+                 
             }
             catch (Exception e){
                 System.out.println(e.getMessage());
@@ -41,6 +43,7 @@ public class ch13_p5 {
                 System.out.println("Finished");
             }
             System.out.println("Yes Finished");
+             
         }
     }
 }

@@ -5,6 +5,7 @@ public class ch2_p1   //operators
     public static void main(String[] args) {
         // 1. Arithmetic Operators
         int a = 4;
+        System.out.println(a);
         // int b = 6 % a; // Modulo Operator
         // 4.8%1.1 --> Returns Decimal Remainder
 
@@ -12,13 +13,14 @@ public class ch2_p1   //operators
         int b = 9;
         b *= 3;
         System.out.println(b);
+        
 
         // 3. Comparison Operators
         // System.out.println(64<6);
 
         // 4. Logical Operators
         System.out.println(64>5 && 64>98);
-        System.out.println(64>5 || 64>98);
+      //  System.out.println(64>5 || 63<98);     //commented for the fix of yellow 
 
         // 5. Bitwise Operators
         System.out.println(2&3);
@@ -26,5 +28,6 @@ public class ch2_p1   //operators
         //        11
         //        ----
         //        10
+        
     }
 }

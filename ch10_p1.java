@@ -31,5 +31,8 @@ public class ch10_p1 {
         //Parent2 p = new Parent2(); -- error
         Child2 c = new Child2();
         //Child3 c3 = new Child3(); -- error
+        System.out.println(c);   //fix of yellow 
+        
+        
     }
 }

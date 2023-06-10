@@ -5,6 +5,7 @@ class MyNewThr1 extends Thread   //more thread methods
         while(true){
 //            System.out.println("I am a thread");
             System.out.println("Thank you: ");
+            System.out.println(i);  //fix of yellow 
             try {
                 Thread.sleep(455);
             } catch (InterruptedException e) {

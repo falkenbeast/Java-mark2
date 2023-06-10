@@ -5,6 +5,7 @@ class MyThr1 extends Thread   //priority of threads
     }
     public void run(){
         int i = 34;
+        System.out.println(i);    //fix of yellow 
 
         while(true){
 //            System.out.println("I am a thread");

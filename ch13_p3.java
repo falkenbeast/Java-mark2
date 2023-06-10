@@ -27,6 +27,7 @@ public class ch13_p3 {
         catch (Exception e){
             System.out.println("Some other exception occured!");
             System.out.println(e);
+            sc.close();    //fix of yellow 
         }
     }
 }

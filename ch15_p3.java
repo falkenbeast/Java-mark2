@@ -1,19 +1,31 @@
-import java.util.Calendar;                        //gregorianCalendar class 
-import java.util.GregorianCalendar;
-import java.util.TimeZone;
+// Java Program to illustrate isLeapYear() function
+// of GregorianCalendar
 
-public class ch15_p3 {
-    public static void main(String[] args) {
-        Calendar c = Calendar.getInstance();
-        System.out.println(c.getTime());
-        System.out.println(c.get(Calendar.DATE));
-        System.out.println(c.get(Calendar.SECOND));
-        System.out.println(c.get(Calendar.HOUR));
-        System.out.println(c.get(Calendar.HOUR_OF_DAY) + ":" + c.get(Calendar.MINUTE) + ":" + c.get(Calendar.SECOND));
-        GregorianCalendar cal = new GregorianCalendar();
-        System.out.println(cal.isLeapYear(2018));
-        System.out.println(TimeZone.getAvailableIDs()[0]);
-        System.out.println(TimeZone.getAvailableIDs()[1]);
-        System.out.println(TimeZone.getAvailableIDs()[2]);
-    }
+import java.io.*;
+import java.util.*;
+
+class ch15_p3            //gregorian calendar class 
+ {
+	public static void main(String[] args) {
+	
+	// Create a new calendar
+	GregorianCalendar c = (GregorianCalendar)
+				GregorianCalendar.getInstance();
+
+	// Display the current date and time
+	System.out.println("Current Date and Time : "
+								+ c.getTime());
+
+	int year = c.get(GregorianCalendar.YEAR);
+	if(c.isLeapYear(year))
+	{
+		System.out.println(year +
+						" is leap year");
+	}
+	else
+	{
+		System.out.println(year +
+					" is Not a leap year");
+	}
+}
 }

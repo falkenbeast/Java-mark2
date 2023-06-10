@@ -13,6 +13,14 @@ public class ch1_p1 //variables
         System.out.print(age);
         String str = "Harry";
         System.out.println(str);
+        System.out.println(age);
+        System.out.println(age2);
+        System.out.println(age3);
+        System.out.println(ageDino);
+        System.out.println(ch);
+        System.out.println(f1);
+        System.out.println(d1);
+        System.out.println(a);
 
     }
 }

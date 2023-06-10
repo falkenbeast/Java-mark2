@@ -21,6 +21,7 @@ public class ch1_p2{
 //        String str = sc.next();
         String str = sc.nextLine();
         System.out.println(str);
+        sc.close();      //fix of yellow 
 
     }
 }

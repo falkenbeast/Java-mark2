@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="3" />
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48e31768-79ea-435a-a6b7-a8659f13d103" name="Changes" comment="">
+    <list default="true" id="51b3b8a9-1d09-4442-8c7e-31499632a976" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Child2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Child2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Child3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Child3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyThr.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyThr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parent2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Parent2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch10_p1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ch10_p1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch10_p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch10_p1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch10_p2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch10_p2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch12_p3.class" beforeDir="false" afterPath="$PROJECT_DIR$/ch12_p3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch12_p3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch12_p3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch12_p4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch12_p4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch12_p5.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch12_p5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch13_p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch13_p1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch13_p3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch13_p3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch13_p4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch13_p4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch13_p5.class" beforeDir="false" afterPath="$PROJECT_DIR$/ch13_p5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch13_p5.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch13_p5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch14_p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch14_p1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch15_p3.class" beforeDir="false" afterPath="$PROJECT_DIR$/ch15_p3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch15_p3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch15_p3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1_p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch1_p1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1_p2.class" beforeDir="false" afterPath="$PROJECT_DIR$/ch1_p2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1_p2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch1_p2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1_p3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch1_p3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch2_p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch2_p1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch9_p3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch9_p3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch9_p4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch9_p4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tempCodeRunnerFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/tempCodeRunnerFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,55 +43,54 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
+  <component name="ProjectId" id="2R0QKDU7PqgotTu9Zr06e9Zn3Mr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectId" id="2QeEQC7pZh5dOb8LQLqSwHrRdk1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/study material/java_mark2"
+    "last_opened_file_path": "E:/study material/java_dsa",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="ch12_p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12_p1" />
+  <component name="RunManager" selected="Application.ch14_p1">
+    <configuration name="ch14_p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14_p1" />
+      <module name="java_mark2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch13_p7.java" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="ch13_p7.java" />
+    <configuration name="ch16_p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_p1" />
+      <module name="java_mark2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch15_p5" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15_p5" />
+    <configuration name="ch1_p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch1_p1" />
+      <module name="java_mark2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch16_p2.java" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_p2.java" />
+    <configuration name="ch9_p6 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch9_p6" />
+      <module name="java_mark2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="ch9_p6 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch9_p6" />
       <module name="java_mark2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,22 +98,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ch15_p5" />
-        <item itemvalue="Application.java" />
-        <item itemvalue="Application.ch12_p1" />
-        <item itemvalue="Application.ch16_p2.java" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.ch9_p6 (2)" />
+        <item itemvalue="Application.ch9_p6 (1)" />
+        <item itemvalue="Application.ch1_p1" />
+        <item itemvalue="Application.ch16_p1" />
+        <item itemvalue="Application.ch14_p1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="48e31768-79ea-435a-a6b7-a8659f13d103" name="Changes" comment="" />
-      <created>1685705628261</created>
+      <changelist id="51b3b8a9-1d09-4442-8c7e-31499632a976" name="Changes" comment="" />
+      <created>1686384472867</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1685705628261</updated>
+      <updated>1686384472867</updated>
     </task>
     <servers />
   </component>
