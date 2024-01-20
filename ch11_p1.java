@@ -4,6 +4,6 @@
 public class ch11_p1 {
 
         public static void main (String [] args){
-           System.out.println("this is a skipped file");
+           System.out.println("this chapter doesn't need programe ");
         }
 }
